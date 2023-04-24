@@ -1,6 +1,6 @@
 # NEWZZEY- News App
 
-# News app based based on the concept of API calling , also involves the use of Recycler View for Displaying the News. It allows user to stay updated with latest news from all over the world.
+### News app based based on the concept of API calling , also involves the use of Recycler View for Displaying the News. It allows user to stay updated with latest news from all over the world.
 
 <div style="color:blue">
 <img src="https://user-images.githubusercontent.com/76248886/149473210-ee18e675-2b64-4ec3-8248-f522d850115a.png" width="350" height="600" />
